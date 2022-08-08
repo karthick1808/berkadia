@@ -1,0 +1,65 @@
+    1  exit
+    2  hostname
+    3  ifconfig
+    4  tty
+    5  cd /dev/pts/
+    6  ls
+    7  ll
+    8  tty
+    9  whoami
+   10  pwd
+   11  ls /
+   12  man hier
+   13  l
+   14  p
+   15  echo $PATH
+   16  vim
+   17  sudo -i
+   18  ls blk
+   19  cls
+   20  clear
+   21  cd proc
+   22  dir
+   23  ls
+   24  ll /
+   25  cd tmp
+   26  clear
+   27  man hier
+   28  ll /home/
+   29  clear
+   30  echo "~ -> present location of default user"
+   31  pwd
+   32  sudo -i
+   33  exit
+   34  pwd
+   35  exit
+   36  sudo -i
+   37  exit
+   38  clear
+   39  echo "~ -> present location of default user"
+   40  clear
+   41  man mkdir
+   42  clear
+   43  mkdir demo
+   44  clear
+   45  mkdir demo1
+   46  mkdir -v demo2
+   47  mkdir 1/2/3/4/5/6/7/8/9/10
+   48  mkdir demo1/2/3/4/5/6/7/8/9/10
+   49  clear
+   50  mkdir 1/2/3/4/5/6/7/8/9/10
+   51  mkdir -p 1/2/3/4/5/6/7/8/9/10
+   52  ls
+   53  ls 1
+   54  ls 1/2/
+   55  tree 1
+   56  sudo apt-get install tree -y
+   57  clear
+   58  tree 1
+   59  tree
+   60  clear
+   61  mkdir -pv 11/12/13/14/15/16/17/18/19/20
+   62  tree
+   63  clear
+   64  history 
+   65  history > day1.txt
